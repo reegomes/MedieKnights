@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: cd1571af2ecb84943a78f689bddca6a5
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - tilemap: {instanceID: 0}
+  - wallTile: {fileID: 11400000, guid: 8c004a4fd4ae589499b2a5c7a67ec16c, type: 2}
+  - destructibleTile: {fileID: 11400000, guid: f3cba73e129bb5540a3a80f0c000adb4, type: 2}
+  - explosionPrefab: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
